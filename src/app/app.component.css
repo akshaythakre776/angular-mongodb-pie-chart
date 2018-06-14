@@ -1,0 +1,20 @@
+h2{
+    text-align: center;
+    font-size: 100px;
+}
+ul{
+    font-size: 25px;
+}
+.footer{
+    background-color:#e5e5e5;
+    text-align:center;
+    padding:10px;
+    margin-top:7px;
+}
+.jumbotron{
+
+    padding: 10px;
+}
+form{
+    text-align: center;
+}
